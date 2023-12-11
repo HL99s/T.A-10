@@ -19,7 +19,7 @@
 		<jettyVersion>9.3.8.v20160314</jettyVersion>
 		<jettyPort>8080</jettyPort>
 		
-		<quartzVersion>2.2.1</quartzVersion>
+		<quartzVersion>2.3.2</quartzVersion>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
